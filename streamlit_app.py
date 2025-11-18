@@ -70,9 +70,9 @@ st.markdown("---")
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     # 예)
     # "짬뽕": {
-    #   "texts": ["호날두는", "전세계에서", "최고의 축구선수이"],
+    #   "texts": ["네이마르는", "브라질에서", "특별한 개인기를 하는선수이다"],
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
-    #   "videos": ["https://www.youtube.com/watch?v=qmWz-RoZNSU"]
+    #   "videos": ["https://www.youtube.com/watch?v=rgz1Mo231TU"]
     # },
      labels[1]: {
        "texts": ["메시는", "키가작은", "축구선수이다"],
@@ -81,9 +81,9 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
      },
 
      labels[2]: {
-       "texts": ["네이마르는", "브라질에서", "특별한 개인기를 하는 선수이다"],
+       "texts": ["호날두는", "전세계에서", "최고의 축구선수이"],
        "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
-       "videos": ["https://www.youtube.com/watch?v=rgz1Mo231TU"]
+       "videos": ["https://www.youtube.com/watch?v=qmWz-RoZNSU"]
      },
 }
 # ======================
