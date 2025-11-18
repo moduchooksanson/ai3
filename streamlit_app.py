@@ -81,7 +81,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
      },
 
      labels[2]: {
-       "texts": ["호날두는", "전세계에서", "최고의 축구선수이"],
+       "texts": ["호날두는", "전세계에서", "최고의 축구선수이다"],
        "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
        "videos": ["https://www.youtube.com/watch?v=qmWz-RoZNSU"]
      },
