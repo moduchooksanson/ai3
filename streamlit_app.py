@@ -79,7 +79,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
        "videos": ["https://file2.nocutnews.co.kr/newsroom/image/2023/06/21/202306210855316394_0.jpg"]
      },
-
+}
 # ======================
 # 유틸
 # ======================
